@@ -1,0 +1,3 @@
+# Netlify SPA fallback. If the API is hosted separately, uncomment & set host:
+# /api/*  https://your-api-host.example/api/:splat  200
+/*  /index.html  200

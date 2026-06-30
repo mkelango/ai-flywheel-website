@@ -1,0 +1,184 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ── Theme tokens — LIGHT is the default; .dark opts in. Values are "R G B" channels. ───────── */
+:root {
+  color-scheme: light;
+  /* surfaces — warm paper whites */
+  --c-ground: 251 250 247;   /* page */
+  --c-ink: 255 255 255;      /* card / elevated white */
+  --c-slate2: 245 243 237;   /* subtle section tint */
+  --c-steel: 238 235 227;    /* deeper tint / gradient start */
+  --c-panel: 255 255 255;    /* card surface */
+  --c-hairline: 221 216 205; /* border */
+  --c-hairsoft: 233 229 219; /* faint border */
+  /* text — deep navy ink scale */
+  --c-cloud: 19 29 40;       /* primary heading text */
+  --c-mist: 47 59 70;        /* body text */
+  --c-muted: 92 104 116;     /* secondary */
+  --c-faint: 128 139 150;    /* tertiary / labels */
+  /* gold for text/accents on light → deeper, editorial */
+  --c-gold: 159 110 26;
+  /* page gradient + effects */
+  --page-grad: radial-gradient(120% 80% at 30% 0%, #ffffff 0%, #fbfaf7 45%, #f3f1ea 100%);
+  --grid-line: rgba(20, 32, 43, 0.05);
+  --shadow-strong: rgba(20, 32, 43, 0.16);
+  --shadow-soft: rgba(20, 32, 43, 0.18);
+  --select-bg: rgba(159, 110, 26, 0.18);
+  --select-fg: #14202b;
+  --scroll-track: #efece4;
+  --scroll-thumb: #d8d3c7;
+  --scroll-thumb-hover: #c4bdac;
+  --ring-track: #e4dfd4;       /* SVG progress/ring tracks */
+  --tint: 20 32 43;            /* subtle ink overlay (replaces white-on-dark tints) */
+  /* Flywheel graphic — optimised for a LIGHT background */
+  --fw-sep: #fbfaf7;           /* paper gaps between segments → crisp on white */
+  --fw-guide: #cdc6b6;         /* warm-gray guide rings + ticks */
+  --fw-rim: #0E8C7F;           /* CORE rim label — deep teal, readable on white */
+  --fw-hub-stroke: #C9A24A;    /* hub outline */
+}
+
+.dark {
+  color-scheme: dark;
+  --c-ground: 10 19 31;
+  --c-ink: 12 26 41;
+  --c-slate2: 14 30 48;
+  --c-steel: 21 41 63;
+  --c-panel: 16 32 47;
+  --c-hairline: 33 56 78;
+  --c-hairsoft: 26 45 64;
+  --c-cloud: 238 243 248;
+  --c-mist: 207 224 236;
+  --c-muted: 157 177 194;
+  --c-faint: 127 149 168;
+  --c-gold: 230 185 104;
+  --page-grad: radial-gradient(120% 80% at 30% 0%, #15293F 0%, #0E1E30 45%, #0A131F 100%);
+  --grid-line: rgba(33, 56, 78, 0.25);
+  --shadow-strong: rgba(0, 0, 0, 0.6);
+  --shadow-soft: rgba(0, 0, 0, 0.55);
+  --select-bg: rgba(230, 185, 104, 0.28);
+  --select-fg: #ffffff;
+  --scroll-track: #0a131f;
+  --scroll-thumb: #21384e;
+  --scroll-thumb-hover: #2c4860;
+  --ring-track: #21384e;
+  --tint: 255 255 255;
+  /* Flywheel graphic — optimised for a DARK background */
+  --fw-sep: #0A131F;
+  --fw-guide: #2c4860;
+  --fw-rim: #8FCDDD;
+  --fw-hub-stroke: #E6B968;
+}
+
+/* ── Obsidian dark band — used for occasional dark rows on the white site. The `.dark` class
+   re-themes everything inside it (text, borders, the flywheel) to the dark palette automatically;
+   the fixed gradient makes it read as a band in BOTH light and dark site modes. ───────────────── */
+.band-obsidian {
+  background:
+    radial-gradient(120% 95% at 50% -15%, #16293E 0%, #0C1A29 52%, #080F18 100%);
+}
+
+html {
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+body {
+  @apply bg-ground text-mist font-sans antialiased;
+  background-image: var(--page-grad);
+  background-attachment: fixed;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+::selection {
+  background: var(--select-bg);
+  color: var(--select-fg);
+}
+
+/* Tamil rendering — Catamaran covers Tamil + Latin glyphs */
+html[lang='ta'] body,
+html[lang='ta'] .font-display {
+  font-family: 'Catamaran', 'Inter', sans-serif;
+}
+
+/* Thin custom scrollbar */
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-track { background: var(--scroll-track); }
+::-webkit-scrollbar-thumb { background: var(--scroll-thumb); border-radius: 8px; }
+::-webkit-scrollbar-thumb:hover { background: var(--scroll-thumb-hover); }
+
+@layer components {
+  .container-x {
+    @apply mx-auto w-full max-w-screen-2xl px-5 sm:px-8 lg:px-12;
+  }
+  .eyebrow {
+    @apply font-mono text-[11px] font-semibold uppercase tracking-[0.28em] text-gold;
+  }
+  .h-display {
+    @apply font-display font-bold tracking-tightest text-cloud;
+  }
+  .card {
+    @apply rounded-2xl border border-hairline/70 bg-panel/70 backdrop-blur-sm;
+  }
+  .hairline {
+    @apply border-hairline/60;
+  }
+  .lift-hover {
+    @apply transition-all duration-300 hover:-translate-y-1 hover:shadow-lift;
+  }
+  /* Buttons */
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-full font-display text-sm font-semibold
+           transition-all duration-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-gold/60;
+  }
+  .btn-gold {
+    @apply btn bg-gradient-to-b from-gold-light to-gold-deep px-6 py-3 text-[#2a1d05] shadow-glow-gold
+           hover:brightness-110 hover:-translate-y-0.5;
+  }
+  .btn-ghost {
+    @apply btn border border-hairline bg-transparent px-6 py-3 text-cloud hover:border-gold/50 hover:bg-hairsoft/40;
+  }
+  .btn-sm {
+    @apply px-4 py-2 text-[13px];
+  }
+  .chip {
+    @apply inline-flex items-center gap-1.5 rounded-full border px-3 py-1 font-mono text-[11px] font-medium uppercase tracking-wider;
+  }
+  .link-underline {
+    @apply relative after:absolute after:-bottom-0.5 after:left-0 after:h-px after:w-0 after:bg-gold
+           after:transition-all after:duration-300 hover:after:w-full;
+  }
+}
+
+/* Gold text shimmer for the wordmark accent — deeper golds on light, bright on dark */
+.text-shimmer {
+  background: linear-gradient(90deg, #9F6E1A 0%, #C08A2A 25%, #E0AC52 50%, #C08A2A 75%, #9F6E1A 100%);
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: shimmer 5s linear infinite;
+}
+.dark .text-shimmer {
+  background: linear-gradient(90deg, #D9AE5E 0%, #F2D49A 25%, #fff 50%, #F2D49A 75%, #D9AE5E 100%);
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+
+.grid-texture {
+  background-image:
+    linear-gradient(to right, var(--grid-line) 1px, transparent 1px),
+    linear-gradient(to bottom, var(--grid-line) 1px, transparent 1px);
+  background-size: 64px 64px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}

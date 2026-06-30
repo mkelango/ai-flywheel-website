@@ -1,0 +1,10 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+# SPA history fallback — deep links like /pricing resolve to index.html.
+# If you host the API elsewhere, add an /api/* proxy redirect ABOVE this one.
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
