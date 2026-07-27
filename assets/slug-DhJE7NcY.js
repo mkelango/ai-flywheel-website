@@ -1,0 +1,1 @@
+const d=o=>o.toLowerCase().replace(/&/g,"and").replace(/[^a-z0-9]+/g,"-").replace(/(^-|-$)/g,"");function l(o,a,c="text/markdown"){const n=new Blob([a],{type:c}),t=URL.createObjectURL(n),e=document.createElement("a");e.href=t,e.download=o,document.body.appendChild(e),e.click(),e.remove(),setTimeout(()=>URL.revokeObjectURL(t),1e3)}export{l as d,d as s};
