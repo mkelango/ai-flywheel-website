@@ -15,7 +15,7 @@ const tamil = Noto_Sans_Tamil({ subsets: ["tamil"], variable: "--font-noto-tamil
 const mono = JetBrains_Mono({ subsets: ["latin"], variable: "--font-jetbrains", display: "swap", preload: false });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://schools.aiflywheel.in"),
+  metadataBase: new URL("https://aiflywheel.in/schools"),
   title: { default: "AI Flywheel at Schools — Make it. Question it. Share it.", template: "%s · AI Flywheel Schools" },
   description: SEO["/"].description,
   openGraph: { siteName: "AI Flywheel at Schools", locale: "en_IN", type: "website" },

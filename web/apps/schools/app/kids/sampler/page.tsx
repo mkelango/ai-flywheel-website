@@ -91,7 +91,7 @@ export default function KidsSamplerPage() {
           </Activity>
 
           <footer className="flex flex-col gap-2 border-t border-line pt-5 text-sm text-muted sm:flex-row sm:items-center sm:justify-between">
-            <span>From AI Flywheel Kids, by AI Flywheel at Schools · schools.aiflywheel.in/kids/sampler</span>
+            <span>From AI Flywheel Kids, by AI Flywheel at Schools · aiflywheel.in/schools/kids/sampler</span>
             <span className="flex items-center gap-2">
               Full packs <StatusTag status="Proposed" /> ₹499–999 a pack
             </span>

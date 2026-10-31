@@ -109,7 +109,7 @@ export default async function ParentGuidePage({ params }: Props) {
               <p className="mt-1 text-ink-2">{g.tryThis}</p>
             </div>
           </aside>
-          <p className="mt-6 text-sm text-muted">From AI Flywheel at Schools · schools.aiflywheel.in/parents/guide/{g.slug}</p>
+          <p className="mt-6 text-sm text-muted">From AI Flywheel at Schools · aiflywheel.in/schools/parents/guide/{g.slug}</p>
         </Container>
       </article>
 

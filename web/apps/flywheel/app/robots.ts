@@ -17,7 +17,7 @@ const AI_AND_SEARCH_BOTS = [
 export default function robots(): MetadataRoute.Robots {
   return {
     rules: [{ userAgent: AI_AND_SEARCH_BOTS, allow: "/" }, { userAgent: "*", allow: "/" }],
-    sitemap: "https://aiflywheel.in/sitemap.xml",
+    sitemap: ["https://aiflywheel.in/sitemap.xml", "https://aiflywheel.in/schools/sitemap.xml"],
     host: "https://aiflywheel.in",
   };
 }

@@ -14,10 +14,10 @@ const AI_AND_SEARCH_BOTS = [
   "Applebot-Extended",
 ];
 
+/** Crawlers read robots.txt at the domain root (aiflywheel.in), which lists this sitemap too. */
 export default function robots(): MetadataRoute.Robots {
   return {
     rules: [...AI_AND_SEARCH_BOTS.map((userAgent) => ({ userAgent, allow: "/" })), { userAgent: "*", allow: "/" }],
-    sitemap: "https://schools.aiflywheel.in/sitemap.xml",
-    host: "https://schools.aiflywheel.in",
+    sitemap: "https://aiflywheel.in/schools/sitemap.xml",
   };
 }

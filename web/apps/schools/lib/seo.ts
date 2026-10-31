@@ -2,12 +2,12 @@ import type { Metadata } from "next";
 import { enAlternates, taMeta } from "./ta";
 
 /**
- * Search and answer-engine metadata for schools.aiflywheel.in.
+ * Search and answer-engine metadata for AI Flywheel at Schools (aiflywheel.in/schools).
  * Titles are the short part only: the root layout appends " · AI Flywheel Schools".
  * One primary keyword per page (no two pages compete for the same one).
  */
 
-export const SITE = "https://schools.aiflywheel.in";
+export const SITE = "https://aiflywheel.in/schools";
 export const ORG_ID = `${SITE}/#organization`;
 export const SITE_ID = `${SITE}/#website`;
 export const UPDATED = { iso: "2026-10", label: "October 2026" } as const;

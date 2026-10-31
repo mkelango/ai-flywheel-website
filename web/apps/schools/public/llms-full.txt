@@ -1,11 +1,11 @@
 # AI Flywheel at Schools: full facts
 
-> Reference facts for search and AI answer engines. Updated October 2026. Source: https://schools.aiflywheel.in
+> Reference facts for search and AI answer engines. Updated October 2026. Source: https://aiflywheel.in/schools/
 > Labels matter: "Ed 1.1" means a published price band, quoted per school; "Proposed" means not yet final; "Illustrative scenario" means an example, not a real school or result.
 
 ## Who we are
 
-- AI Flywheel at Schools (https://schools.aiflywheel.in) offers a class-by-class AI literacy curriculum for CBSE, ICSE and State Board schools in India, Classes 1–12, in Tamil and English.
+- AI Flywheel at Schools (https://aiflywheel.in/schools/) offers a class-by-class AI literacy curriculum for CBSE, ICSE and State Board schools in India, Classes 1–12, in Tamil and English.
 - It is part of AI Flywheel (https://aiflywheel.in), a brand of Inevitra Advisory. Built in Tamil Nadu, India.
 - Tagline: Make it. Question it. Share it.
 - Children learn to make things with AI and to question it. Every AI Flywheel lesson ends with one check done without AI.
@@ -33,12 +33,12 @@ What children make (examples): Classes 1–2 a pattern book and a floor-robot pa
 
 ## A school's path
 
-1. School Flywheel Check: a free 15-minute online check for leaders, six questions, instant report. https://schools.aiflywheel.in/check
-2. Demo: a 45-minute sample lesson with your own students, on site or online, no obligation. https://schools.aiflywheel.in/demo
-3. Pilot: one class band for one term, one period a week, with a teacher trained to Aware (C1), ending with a report and review. https://schools.aiflywheel.in/pilot
-4. School Flywheel Partnership (annual): lesson kits for every class band in Tamil and English; Teacher Flywheel with C1 free for every teacher and training to Practitioner (C2); a termly school report by class band, level and stage; Flywheel Day and the Inter-school Challenge; a parent pack and one parent session a year. https://schools.aiflywheel.in/partnership
-5. Spark Lab (optional). https://schools.aiflywheel.in/lab
-6. AI Flywheel School mark. https://schools.aiflywheel.in/mark
+1. School Flywheel Check: a free 15-minute online check for leaders, six questions, instant report. https://aiflywheel.in/schools/check
+2. Demo: a 45-minute sample lesson with your own students, on site or online, no obligation. https://aiflywheel.in/schools/demo
+3. Pilot: one class band for one term, one period a week, with a teacher trained to Aware (C1), ending with a report and review. https://aiflywheel.in/schools/pilot
+4. School Flywheel Partnership (annual): lesson kits for every class band in Tamil and English; Teacher Flywheel with C1 free for every teacher and training to Practitioner (C2); a termly school report by class band, level and stage; Flywheel Day and the Inter-school Challenge; a parent pack and one parent session a year. https://aiflywheel.in/schools/partnership
+5. Spark Lab (optional). https://aiflywheel.in/schools/lab
+6. AI Flywheel School mark. https://aiflywheel.in/schools/mark
 
 School calendar: schools plan in October–December, set budgets in January–April and train teachers in April–May before the June term.
 
@@ -55,7 +55,7 @@ School calendar: schools plan in October–December, set budgets in January–Ap
 - Aware: all teachers at Aware (C1); the programme running in at least one class band.
 - Practitioner: half the teachers at Practitioner (C2); every class band covered; a yearly Flywheel Day.
 - Builder: a Spark Lab; a quarter of teachers at Builder (C3); a Builders Club capstone showcase.
-- Renewed every year, shown on the school's website, verifiable at https://schools.aiflywheel.in/verify
+- Renewed every year, shown on the school's website, verifiable at https://aiflywheel.in/schools/verify
 
 ## Teacher Flywheel (teacher training and certification)
 
@@ -74,13 +74,13 @@ School calendar: schools plan in October–December, set budgets in January–Ap
 
 ## AI Flywheel Kids (Classes 3–8, ages 8–14; prices Proposed)
 
-Camps and clubs planned in Chennai, Coimbatore, Madurai and Tiruchirappalli, at partner schools and learning centres. Camp sessions shown on the site are an illustrative scenario until dates are confirmed. Join the waitlist: https://schools.aiflywheel.in/kids/find
+Camps and clubs planned in Chennai, Coimbatore, Madurai and Tiruchirappalli, at partner schools and learning centres. Camp sessions shown on the site are an illustrative scenario until dates are confirmed. Join the waitlist: https://aiflywheel.in/schools/kids/find
 
 - Kids Summer Camp: 2 weeks in April–May, 2–3 hours a day; take home a finished project, a printed certificate and a family Showcase Day; ₹4,000–7,500.
 - Kids Weekend Club: a school term of Saturdays, 2 hours a week; a project each month; Classes 6–8 can earn Aware (C1); ₹6,000–9,000 a term.
 - Kids Holiday Bootcamp: 3–5 days in the Pongal, Diwali or Christmas break; one themed build; ₹2,500–4,000.
 - Kids at Home: printable, unplugged activity packs with a parent guide, in Tamil and English; free sampler, then ₹499–999 a pack.
-- Schools and learning centres can host camps on a revenue share: https://schools.aiflywheel.in/kids/host
+- Schools and learning centres can host camps on a revenue share: https://aiflywheel.in/schools/kids/host
 
 ## Government schools (Mission) and CSR
 
@@ -102,11 +102,11 @@ Parents can view, download or delete their child's data at any time. The school 
 
 ## Contact routes
 
-- Schools (correspondents, principals, coordinators): https://schools.aiflywheel.in/demo or https://schools.aiflywheel.in/contact
-- Parents and Kids camps: https://schools.aiflywheel.in/contact
-- Mission, government and district programmes: https://schools.aiflywheel.in/contact
-- CSR funding: https://schools.aiflywheel.in/mission/csr
-- Concerns about a child's data or an AI feature: the grievance officer, https://schools.aiflywheel.in/trust/grievance (proposed response times: incidents acknowledged within 24 hours, concerns within 2 working days)
+- Schools (correspondents, principals, coordinators): https://aiflywheel.in/schools/demo or https://aiflywheel.in/schools/contact
+- Parents and Kids camps: https://aiflywheel.in/schools/contact
+- Mission, government and district programmes: https://aiflywheel.in/schools/contact
+- CSR funding: https://aiflywheel.in/schools/mission/csr
+- Concerns about a child's data or an AI feature: the grievance officer, https://aiflywheel.in/schools/trust/grievance (proposed response times: incidents acknowledged within 24 hours, concerns within 2 working days)
 
 ## What we do not claim
 

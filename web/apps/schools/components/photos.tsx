@@ -1,3 +1,4 @@
+import { BASE_PATH } from "@/lib/base-path";
 import type { ReactNode } from "react";
 import clsx from "clsx";
 import { Photo, type PhotoOverlay } from "@flywheel/ui/components/Media";
@@ -9,20 +10,20 @@ import { Blob } from "./art";
  * Each file is used at most three times across the site.
  */
 export const PHOTO = {
-  classroom: "/images/classroom-empty.jpg",
-  boardroom: "/images/boardroom-training.jpg",
-  overheadDesks: "/images/desks-overhead-hands.jpg",
-  trainingRoom: "/images/teacher-training-room.jpg",
-  workshop: "/images/workshop-presenter.jpg",
-  loveToLearn: "/images/love-to-learn.jpg",
-  robot: "/images/humanoid-robot.jpg",
-  roboticsLab: "/images/robotics-lab-engineer.jpg",
-  library: "/images/library-aisle.jpg",
-  team: "/images/team-around-laptop.jpg",
-  meeting: "/images/meeting-notes.jpg",
-  appleBlocks: "/images/apple-books-blocks.jpg",
-  books: "/images/books-stack.jpg",
-  drawings: "/images/engineering-drawings.jpg",
+  classroom: `${BASE_PATH}/images/classroom-empty.jpg`,
+  boardroom: `${BASE_PATH}/images/boardroom-training.jpg`,
+  overheadDesks: `${BASE_PATH}/images/desks-overhead-hands.jpg`,
+  trainingRoom: `${BASE_PATH}/images/teacher-training-room.jpg`,
+  workshop: `${BASE_PATH}/images/workshop-presenter.jpg`,
+  loveToLearn: `${BASE_PATH}/images/love-to-learn.jpg`,
+  robot: `${BASE_PATH}/images/humanoid-robot.jpg`,
+  roboticsLab: `${BASE_PATH}/images/robotics-lab-engineer.jpg`,
+  library: `${BASE_PATH}/images/library-aisle.jpg`,
+  team: `${BASE_PATH}/images/team-around-laptop.jpg`,
+  meeting: `${BASE_PATH}/images/meeting-notes.jpg`,
+  appleBlocks: `${BASE_PATH}/images/apple-books-blocks.jpg`,
+  books: `${BASE_PATH}/images/books-stack.jpg`,
+  drawings: `${BASE_PATH}/images/engineering-drawings.jpg`,
 } as const;
 
 export type PhotoKey = keyof typeof PHOTO;

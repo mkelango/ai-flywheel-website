@@ -1,6 +1,6 @@
 /**
- * The three doors, each on its own domain. Production builds link to the live domains;
- * local dev uses ports 3000-3002. NEXT_PUBLIC_*_URL overrides either (e.g. for staging).
+ * The three doors. AI Flywheel and Schools share aiflywheel.in (Schools at /schools); Studio has
+ * aiflywheel.studio. Production builds link to the live URLs; local dev uses ports 3000-3002. NEXT_PUBLIC_*_URL overrides either (e.g. for staging).
  */
 export type SiteKey = "flywheel" | "schools" | "studio";
 
@@ -9,8 +9,8 @@ const LIVE = process.env.NODE_ENV === "production";
 export const SITES: Record<SiteKey, { name: string; domain: string; url: string; doorLabel: string }> = {
   schools: {
     name: "AI Flywheel at Schools",
-    domain: "schools.aiflywheel.in",
-    url: process.env.NEXT_PUBLIC_SCHOOLS_URL ?? (LIVE ? "https://schools.aiflywheel.in" : "http://localhost:3001"),
+    domain: "aiflywheel.in/schools",
+    url: process.env.NEXT_PUBLIC_SCHOOLS_URL ?? (LIVE ? "https://aiflywheel.in/schools" : "http://localhost:3000/schools"),
     doorLabel: "For schools",
   },
   flywheel: {
@@ -29,7 +29,7 @@ export const SITES: Record<SiteKey, { name: string; domain: string; url: string;
 
 /** Absolute link to a page on another door, e.g. siteHref("flywheel", "/verify"). */
 export function siteHref(site: SiteKey, path = "/") {
-  return `${SITES[site].url}${path}`;
+  return path === "/" ? SITES[site].url : `${SITES[site].url}${path}`;
 }
 
 /** The four stages of the wheel. Colours are fixed across all three brands. */

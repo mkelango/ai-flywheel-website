@@ -15,7 +15,7 @@ Languages: English (en-IN) and Tamil (ta-IN, under https://aiflywheel.in/ta)
 - Base: Tamil Nadu, India.
 - Slogan: Learn it. Build it. Prove it.
 - Author: M. K. Elango, a strategist based in Tamil Nadu, author of The AI Flywheel and the four Studio Playbooks. The six-book series is the curriculum.
-- Sister sites: AI Flywheel at Schools (https://schools.aiflywheel.in, school delivery) and AI Flywheel Studio (https://aiflywheel.studio, where learners build).
+- Sister sites: AI Flywheel at Schools (https://aiflywheel.in/schools/, school delivery) and AI Flywheel Studio (https://aiflywheel.studio, where learners build).
 
 ## The framework
 

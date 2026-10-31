@@ -1,82 +1,82 @@
 # AI Flywheel at Schools
 
-> AI Flywheel at Schools (https://schools.aiflywheel.in) offers a class-by-class AI literacy curriculum for CBSE, ICSE and State Board schools in India, Classes 1–12, in Tamil and English: lesson kits, teacher training from Aware (C1) to Builder (C3), and Spark Lab, an AI and robotics lab. Children learn to make things with AI and to question it. Safe by design: no AI accounts for Classes 3–5, verified parent consent first, children's data kept in India and never used to train AI models. A part of AI Flywheel (https://aiflywheel.in), a brand of Inevitra Advisory.
+> AI Flywheel at Schools (https://aiflywheel.in/schools/) offers a class-by-class AI literacy curriculum for CBSE, ICSE and State Board schools in India, Classes 1–12, in Tamil and English: lesson kits, teacher training from Aware (C1) to Builder (C3), and Spark Lab, an AI and robotics lab. Children learn to make things with AI and to question it. Safe by design: no AI accounts for Classes 3–5, verified parent consent first, children's data kept in India and never used to train AI models. A part of AI Flywheel (https://aiflywheel.in), a brand of Inevitra Advisory.
 
-Prices are Ed 1.1 bands per student a year, excluding GST, quoted per school. Kids prices are Proposed. Content updated October 2026. Full facts: https://schools.aiflywheel.in/llms-full.txt
+Prices are Ed 1.1 bands per student a year, excluding GST, quoted per school. Kids prices are Proposed. Content updated October 2026. Full facts: https://aiflywheel.in/schools/llms-full.txt
 
 ## Schools
 
-- [AI curriculum for schools](https://schools.aiflywheel.in/): Classes 1–12, CBSE, ICSE and State Board, Tamil and English
-- [AI syllabus, Class 1 to 12](https://schools.aiflywheel.in/programmes): the curriculum map of four programmes and four stages
-- [AI for Class 1 and 2: Flywheel Play](https://schools.aiflywheel.in/programmes/play): unplugged patterns, stories and a floor robot
-- [AI for Classes 3 to 5: Flywheel Spark](https://schools.aiflywheel.in/programmes/spark): data hunts and block-coded robots, no AI accounts
-- [AI for Classes 6 to 8: Flywheel Practitioner](https://schools.aiflywheel.in/programmes/practitioner): make with AI, then check, cite and label it
-- [AI and robotics club, Classes 9–12: Flywheel Builders Club](https://schools.aiflywheel.in/programmes/builders-club): real projects and a capstone
-- [CBSE AI curriculum, Class 3 to 8](https://schools.aiflywheel.in/programmes/boards): board alignment for CBSE, ICSE and TN State Board
-- [AI programme for schools in India](https://schools.aiflywheel.in/for-schools): the six steps from check to School mark
-- [School Flywheel Partnership](https://schools.aiflywheel.in/partnership): what the annual partnership includes
-- [AI curriculum price per student](https://schools.aiflywheel.in/pricing): price bands and an estimator
-- [AI lab for schools in Tamil Nadu](https://schools.aiflywheel.in/lab): Spark Lab tiers and costs
-- [AI pilot programme for schools](https://schools.aiflywheel.in/pilot): one class band for one term
-- [School AI readiness check](https://schools.aiflywheel.in/check): six questions, instant report
-- [AI curriculum demo](https://schools.aiflywheel.in/demo): book a 45-minute sample lesson
-- [AI school certification mark](https://schools.aiflywheel.in/mark): Proposed criteria for Aware, Practitioner and Builder schools
-- [Inter-school AI challenge and events](https://schools.aiflywheel.in/events): Flywheel Day, the Challenge, the Annual Showcase
+- [AI curriculum for schools](https://aiflywheel.in/schools/): Classes 1–12, CBSE, ICSE and State Board, Tamil and English
+- [AI syllabus, Class 1 to 12](https://aiflywheel.in/schools/programmes): the curriculum map of four programmes and four stages
+- [AI for Class 1 and 2: Flywheel Play](https://aiflywheel.in/schools/programmes/play): unplugged patterns, stories and a floor robot
+- [AI for Classes 3 to 5: Flywheel Spark](https://aiflywheel.in/schools/programmes/spark): data hunts and block-coded robots, no AI accounts
+- [AI for Classes 6 to 8: Flywheel Practitioner](https://aiflywheel.in/schools/programmes/practitioner): make with AI, then check, cite and label it
+- [AI and robotics club, Classes 9–12: Flywheel Builders Club](https://aiflywheel.in/schools/programmes/builders-club): real projects and a capstone
+- [CBSE AI curriculum, Class 3 to 8](https://aiflywheel.in/schools/programmes/boards): board alignment for CBSE, ICSE and TN State Board
+- [AI programme for schools in India](https://aiflywheel.in/schools/for-schools): the six steps from check to School mark
+- [School Flywheel Partnership](https://aiflywheel.in/schools/partnership): what the annual partnership includes
+- [AI curriculum price per student](https://aiflywheel.in/schools/pricing): price bands and an estimator
+- [AI lab for schools in Tamil Nadu](https://aiflywheel.in/schools/lab): Spark Lab tiers and costs
+- [AI pilot programme for schools](https://aiflywheel.in/schools/pilot): one class band for one term
+- [School AI readiness check](https://aiflywheel.in/schools/check): six questions, instant report
+- [AI curriculum demo](https://aiflywheel.in/schools/demo): book a 45-minute sample lesson
+- [AI school certification mark](https://aiflywheel.in/schools/mark): Proposed criteria for Aware, Practitioner and Builder schools
+- [Inter-school AI challenge and events](https://aiflywheel.in/schools/events): Flywheel Day, the Challenge, the Annual Showcase
 
 ## Teachers
 
-- [AI training for teachers](https://schools.aiflywheel.in/teachers): Teacher Flywheel, kits, workshops and community
-- [AI teacher certification C1–C3](https://schools.aiflywheel.in/teachers/flywheel): levels and how each is assessed
-- [AI lesson plans for teachers](https://schools.aiflywheel.in/teachers/kits): lesson kits and assessment guides
-- [AI workshops for teachers](https://schools.aiflywheel.in/teachers/workshops): the termly calendar
-- [AI teacher community](https://schools.aiflywheel.in/teachers/community): lesson of the month and the Knowledge Partner path
-- [Verify a teacher AI certificate](https://schools.aiflywheel.in/verify): Open Badges 3.0 credentials
+- [AI training for teachers](https://aiflywheel.in/schools/teachers): Teacher Flywheel, kits, workshops and community
+- [AI teacher certification C1–C3](https://aiflywheel.in/schools/teachers/flywheel): levels and how each is assessed
+- [AI lesson plans for teachers](https://aiflywheel.in/schools/teachers/kits): lesson kits and assessment guides
+- [AI workshops for teachers](https://aiflywheel.in/schools/teachers/workshops): the termly calendar
+- [AI teacher community](https://aiflywheel.in/schools/teachers/community): lesson of the month and the Knowledge Partner path
+- [Verify a teacher AI certificate](https://aiflywheel.in/schools/verify): Open Badges 3.0 credentials
 
 ## Parents
 
-- [AI in school: a parents' guide](https://schools.aiflywheel.in/parents): learning, screen time and safety
-- [What children learn in AI class](https://schools.aiflywheel.in/parents/learning): class by class, term by term
-- [Is AI safe for children?](https://schools.aiflywheel.in/parents/safety): six safety promises and how consent works
-- [Screen time in AI lessons](https://schools.aiflywheel.in/parents/screen-time): Classes 1–5 learn mostly offline
-- [AI guides for parents](https://schools.aiflywheel.in/parents/guides): short printable guides
-- [Parent FAQs](https://schools.aiflywheel.in/parents/faq): ChatGPT, cost, Tamil, deleting data
-- [AI and homework](https://schools.aiflywheel.in/parents/guide/homework-and-honesty): when AI help is fine and when it is not
+- [AI in school: a parents' guide](https://aiflywheel.in/schools/parents): learning, screen time and safety
+- [What children learn in AI class](https://aiflywheel.in/schools/parents/learning): class by class, term by term
+- [Is AI safe for children?](https://aiflywheel.in/schools/parents/safety): six safety promises and how consent works
+- [Screen time in AI lessons](https://aiflywheel.in/schools/parents/screen-time): Classes 1–5 learn mostly offline
+- [AI guides for parents](https://aiflywheel.in/schools/parents/guides): short printable guides
+- [Parent FAQs](https://aiflywheel.in/schools/parents/faq): ChatGPT, cost, Tamil, deleting data
+- [AI and homework](https://aiflywheel.in/schools/parents/guide/homework-and-honesty): when AI help is fine and when it is not
 
 ## AI Flywheel Kids (Classes 3–8)
 
-- [AI classes for kids](https://schools.aiflywheel.in/kids): camps and clubs for ages 8–14
-- [AI summer camp for kids](https://schools.aiflywheel.in/kids/summer-camp): two weeks in April–May
-- [Weekend AI club](https://schools.aiflywheel.in/kids/weekend-club): a term of Saturdays
-- [Robotics camp for kids, holidays](https://schools.aiflywheel.in/kids/bootcamp): 3–5 days in Pongal, Diwali or Christmas breaks
-- [AI activities at home](https://schools.aiflywheel.in/kids/at-home): printable, unplugged packs
-- [Free unplugged AI activities](https://schools.aiflywheel.in/kids/sampler): a free printable sampler
-- [Find a kids AI camp](https://schools.aiflywheel.in/kids/find): Chennai, Coimbatore, Madurai, Tiruchirappalli
+- [AI classes for kids](https://aiflywheel.in/schools/kids): camps and clubs for ages 8–14
+- [AI summer camp for kids](https://aiflywheel.in/schools/kids/summer-camp): two weeks in April–May
+- [Weekend AI club](https://aiflywheel.in/schools/kids/weekend-club): a term of Saturdays
+- [Robotics camp for kids, holidays](https://aiflywheel.in/schools/kids/bootcamp): 3–5 days in Pongal, Diwali or Christmas breaks
+- [AI activities at home](https://aiflywheel.in/schools/kids/at-home): printable, unplugged packs
+- [Free unplugged AI activities](https://aiflywheel.in/schools/kids/sampler): a free printable sampler
+- [Find a kids AI camp](https://aiflywheel.in/schools/kids/find): Chennai, Coimbatore, Madurai, Tiruchirappalli
 
 ## Government schools and CSR
 
-- [AI literacy for government schools](https://schools.aiflywheel.in/mission): Mission schools, part of Mission 2047
-- [AI curriculum in Tamil, offline](https://schools.aiflywheel.in/mission/schools): Tamil-first, offline-first delivery
-- [District AI literacy progress](https://schools.aiflywheel.in/mission/progress): reporting by level and stage
-- [CSR funding for AI education](https://schools.aiflywheel.in/mission/csr): the Mission Patron route
+- [AI literacy for government schools](https://aiflywheel.in/schools/mission): Mission schools, part of Mission 2047
+- [AI curriculum in Tamil, offline](https://aiflywheel.in/schools/mission/schools): Tamil-first, offline-first delivery
+- [District AI literacy progress](https://aiflywheel.in/schools/mission/progress): reporting by level and stage
+- [CSR funding for AI education](https://aiflywheel.in/schools/mission/csr): the Mission Patron route
 
 ## Trust and contact
 
-- [Child data privacy for schools](https://schools.aiflywheel.in/trust): the Trust centre
-- [Children's privacy notice](https://schools.aiflywheel.in/trust/children-privacy)
-- [Data processing terms for schools](https://schools.aiflywheel.in/trust/processing-terms)
-- [AI feature register](https://schools.aiflywheel.in/trust/ai-register)
-- [Grievance officer](https://schools.aiflywheel.in/trust/grievance)
-- [Contact](https://schools.aiflywheel.in/contact): schools, parents, Mission and CSR enquiries
+- [Child data privacy for schools](https://aiflywheel.in/schools/trust): the Trust centre
+- [Children's privacy notice](https://aiflywheel.in/schools/trust/children-privacy)
+- [Data processing terms for schools](https://aiflywheel.in/schools/trust/processing-terms)
+- [AI feature register](https://aiflywheel.in/schools/trust/ai-register)
+- [Grievance officer](https://aiflywheel.in/schools/trust/grievance)
+- [Contact](https://aiflywheel.in/schools/contact): schools, parents, Mission and CSR enquiries
 
 ## Tamil (தமிழ்)
 
-- [பள்ளிகளுக்கான AI பாடத்திட்டம்](https://schools.aiflywheel.in/ta)
-- [வகுப்பு 1–12 AI பாடத்திட்டம்](https://schools.aiflywheel.in/ta/programmes)
-- [CBSE AI பாடத்திட்டம் வகுப்பு 3–8](https://schools.aiflywheel.in/ta/programmes/boards)
-- [குழந்தைகளுக்கான AI வகுப்புகள்](https://schools.aiflywheel.in/ta/kids)
-- [AI குழந்தைகளுக்குப் பாதுகாப்பானதா?](https://schools.aiflywheel.in/ta/parents/safety)
+- [பள்ளிகளுக்கான AI பாடத்திட்டம்](https://aiflywheel.in/schools/ta)
+- [வகுப்பு 1–12 AI பாடத்திட்டம்](https://aiflywheel.in/schools/ta/programmes)
+- [CBSE AI பாடத்திட்டம் வகுப்பு 3–8](https://aiflywheel.in/schools/ta/programmes/boards)
+- [குழந்தைகளுக்கான AI வகுப்புகள்](https://aiflywheel.in/schools/ta/kids)
+- [AI குழந்தைகளுக்குப் பாதுகாப்பானதா?](https://aiflywheel.in/schools/ta/parents/safety)
 
 ## Optional
 
 - [AI Flywheel](https://aiflywheel.in): the adult AI learning platform
-- [Sitemap](https://schools.aiflywheel.in/sitemap.xml)
+- [Sitemap](https://aiflywheel.in/schools/sitemap.xml)

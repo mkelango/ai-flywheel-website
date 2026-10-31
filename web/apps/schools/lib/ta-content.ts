@@ -1,5 +1,5 @@
 /**
- * Tamil copy for the /ta mirror of schools.aiflywheel.in.
+ * Tamil copy for the /ta mirror of AI Flywheel at Schools (aiflywheel.in/schools).
  * Prices, class ranges and figures come from lib/data.ts, lib/offer.ts and lib/families.ts; only words live here.
  * Draft Tamil: to be reviewed by a native Tamil editor before launch.
  */

@@ -1,5 +1,5 @@
 /**
- * Static index of every page on schools.aiflywheel.in, for /search.
+ * Static index of every page of AI Flywheel at Schools (aiflywheel.in/schools), for /search.
  * Built from the same data the pages use, so titles stay in sync.
  */
 import { PARENT_GUIDES, TRUST_PAGES } from "@/components/extras/content";

@@ -74,5 +74,5 @@ Key facts: four AI stages (Foundation, Generative, Agentic, Physical); the DRIVE
 - [Inevitable Summit](https://aiflywheel.in/summit): week of 8 February 2027.
 - [Mission 2047](https://aiflywheel.in/mission-2047): count AI builders by level and stage, in every district.
 - [Tamil site](https://aiflywheel.in/ta): AI courses in Tamil.
-- [AI Flywheel at Schools](https://schools.aiflywheel.in/): the separate site for school delivery.
+- [AI Flywheel at Schools](https://aiflywheel.in/schools): school delivery, on this domain at /schools ([llms.txt](https://aiflywheel.in/schools/llms.txt)).
 - [AI Flywheel Studio](https://aiflywheel.studio/): where learners build; Agentic Studio opens first.

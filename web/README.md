@@ -5,10 +5,16 @@ Next.js 16 + React 19 + Tailwind CSS v4 monorepo, built from *AI Flywheel Websit
 | Site | Folder | Local URL | Production domain |
 | --- | --- | --- | --- |
 | AI Flywheel (adult learning, master brand) | `apps/flywheel` | http://localhost:3000 | aiflywheel.in |
-| AI Flywheel at Schools (+ AI Flywheel Kids) | `apps/schools` | http://localhost:3001 | schools.aiflywheel.in |
+| AI Flywheel at Schools (+ AI Flywheel Kids) | `apps/schools` | http://localhost:3000/schools (app runs on 3001) | aiflywheel.in/schools |
+
+Both sites share **aiflywheel.in**. The Schools app is built with `basePath: "/schools"`, and the
+AI Flywheel app proxies `/schools/*` to it (Next.js multi-zones). In production, either set
+`SCHOOLS_ORIGIN` (build variable on the AI Flywheel app) to where the Schools app runs, or let
+the reverse proxy route `/schools` straight to the Schools app. The old `schools.aiflywheel.in`
+host redirects to `aiflywheel.in/schools`.
 
 AI Flywheel Studio (aiflywheel.studio) is a separate project and is not in this repository;
-both sites link to it.
+both sites link to it, and `/studio` redirects there.
 
 `packages/ui` is the shared design system: one token set with a theme per site
 (`theme-flywheel.css`, `theme-schools.css`), the wheel mark, the mega-menu header with the

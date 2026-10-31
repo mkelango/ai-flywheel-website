@@ -1,5 +1,5 @@
 /**
- * Content for schools.aiflywheel.in, taken from Website Strategy 2.0, section 03.
+ * Content for AI Flywheel at Schools (aiflywheel.in/schools), taken from Website Strategy 2.0, section 03.
  * Programme names and price bands are from Ed 1.1; class bands and activities are a proposal.
  */
 
