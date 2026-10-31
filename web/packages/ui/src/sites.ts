@@ -1,23 +1,28 @@
-/** The three doors. Local dev runs each on its own port; set the env vars in production. */
+/**
+ * The three doors, each on its own domain. Production builds link to the live domains;
+ * local dev uses ports 3000-3002. NEXT_PUBLIC_*_URL overrides either (e.g. for staging).
+ */
 export type SiteKey = "flywheel" | "schools" | "studio";
+
+const LIVE = process.env.NODE_ENV === "production";
 
 export const SITES: Record<SiteKey, { name: string; domain: string; url: string; doorLabel: string }> = {
   schools: {
     name: "AI Flywheel at Schools",
     domain: "schools.aiflywheel.in",
-    url: process.env.NEXT_PUBLIC_SCHOOLS_URL ?? "http://localhost:3001",
+    url: process.env.NEXT_PUBLIC_SCHOOLS_URL ?? (LIVE ? "https://schools.aiflywheel.in" : "http://localhost:3001"),
     doorLabel: "For schools",
   },
   flywheel: {
     name: "AI Flywheel",
     domain: "aiflywheel.in",
-    url: process.env.NEXT_PUBLIC_FLYWHEEL_URL ?? "http://localhost:3000",
+    url: process.env.NEXT_PUBLIC_FLYWHEEL_URL ?? (LIVE ? "https://aiflywheel.in" : "http://localhost:3000"),
     doorLabel: "For colleges, professionals and business",
   },
   studio: {
     name: "AI Flywheel Studio",
     domain: "aiflywheel.studio",
-    url: process.env.NEXT_PUBLIC_STUDIO_URL ?? "http://localhost:3002",
+    url: process.env.NEXT_PUBLIC_STUDIO_URL ?? (LIVE ? "https://aiflywheel.studio" : "http://localhost:3002"),
     doorLabel: "Studio",
   },
 };

@@ -4,7 +4,7 @@ import { useEffect, useId, useRef, useState, type KeyboardEvent as ReactKeyboard
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { AnimatePresence, motion, useReducedMotion } from "motion/react";
-import { ChevronDown, Menu, X, ArrowRight, ShieldCheck, Search } from "lucide-react";
+import { ChevronDown, Menu, X, ArrowRight, ArrowUpRight, ShieldCheck, Search } from "lucide-react";
 import clsx from "clsx";
 import { SITES, siteHref, type SiteKey } from "../sites";
 import { SmartLink, buttonClass } from "./primitives";
@@ -42,12 +42,20 @@ export function DoorBar({ current, taPaths, searchHref }: { current: SiteKey; ta
               key={key}
               href={SITES[key].url}
               aria-current={key === current ? "page" : undefined}
+              title={key === "studio" && key !== current ? `Opens ${SITES.studio.domain}` : undefined}
               className={clsx(
-                "rounded-md px-2.5 py-1 transition-colors",
+                "inline-flex items-center gap-1 rounded-md px-2.5 py-1 transition-colors",
                 key === current ? "bg-surface font-semibold text-ink shadow-sm" : "text-muted hover:text-ink",
               )}
             >
               {SITES[key].doorLabel}
+              {/* Studio is its own product on its own domain: say so before the click. */}
+              {key === "studio" && key !== current && (
+                <>
+                  <ArrowUpRight className="size-3" aria-hidden />
+                  <span className="sr-only">(opens {SITES.studio.domain})</span>
+                </>
+              )}
             </a>
           ))}
         </nav>
