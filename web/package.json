@@ -2,16 +2,16 @@
   "name": "ai-flywheel-web",
   "private": true,
   "workspaces": [
-    "apps/*",
+    "apps/flywheel",
+    "apps/schools",
     "packages/*"
   ],
   "scripts": {
-    "dev": "concurrently -n flywheel,schools,studio -c auto \"npm:dev:flywheel\" \"npm:dev:schools\" \"npm:dev:studio\"",
+    "dev": "concurrently -n flywheel,schools -c auto \"npm:dev:flywheel\" \"npm:dev:schools\"",
     "dev:flywheel": "npm run dev -w @flywheel/site-flywheel",
     "dev:schools": "npm run dev -w @flywheel/site-schools",
-    "dev:studio": "npm run dev -w @flywheel/site-studio",
-    "build": "npm run build -w @flywheel/site-flywheel && npm run build -w @flywheel/site-schools && npm run build -w @flywheel/site-studio",
-    "typecheck": "tsc -p apps/flywheel --noEmit && tsc -p apps/schools --noEmit && tsc -p apps/studio --noEmit"
+    "build": "npm run build -w @flywheel/site-flywheel && npm run build -w @flywheel/site-schools",
+    "typecheck": "tsc -p apps/flywheel --noEmit && tsc -p apps/schools --noEmit"
   },
   "devDependencies": {
     "concurrently": "^9.2.1"

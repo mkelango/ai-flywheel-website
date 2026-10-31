@@ -17,3 +17,7 @@ next-env.d.ts
 Thumbs.db
 .vscode/
 .idea/
+
+# Kept on this computer, not in this repo
+web/apps/studio/
+.claude/
