@@ -19,5 +19,7 @@ Thumbs.db
 .idea/
 
 # Kept on this computer, not in this repo
+# AI Flywheel Studio has its own repository (mkelango/aiflywheel-studio)
+studio/
 web/apps/studio/
 .claude/
