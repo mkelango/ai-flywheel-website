@@ -1,0 +1,30 @@
+/* aiflywheel.studio — dark product interface; each studio's layer colour is its accent. */
+:root {
+  --bg: #07090d;
+  --surface: #0e1219;
+  --surface-2: #151b25;
+  --ink: #eef1f6;
+  --ink-2: #c5ccd8;
+  --muted: #8b94a5;
+  --line: #222a37;
+  --inverse: #eef1f6;
+  --inverse-ink: #07090d;
+
+  --primary: #d98b0b; /* agentic amber leads: Agentic Studio opens first */
+  --primary-hover: #f0a22a;
+  --on-primary: #0b0d12;
+  --accent: #eef1f6;
+  --on-accent: #07090d;
+  --highlight: #3a2a0a;
+
+  --font-display-family: var(--font-inter);
+  --font-sans-family: var(--font-inter);
+  --font-mono-family: var(--font-jetbrains);
+  --display-tracking: -0.035em;
+  --radius-card-size: 12px;
+
+  --footer-bg: #0b0e14;
+  --footer-ink: #eef1f6;
+
+  color-scheme: dark;
+}

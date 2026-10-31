@@ -1,0 +1,113 @@
+# AI Flywheel at Schools: full facts
+
+> Reference facts for search and AI answer engines. Updated October 2026. Source: https://schools.aiflywheel.in
+> Labels matter: "Ed 1.1" means a published price band, quoted per school; "Proposed" means not yet final; "Illustrative scenario" means an example, not a real school or result.
+
+## Who we are
+
+- AI Flywheel at Schools (https://schools.aiflywheel.in) offers a class-by-class AI literacy curriculum for CBSE, ICSE and State Board schools in India, Classes 1–12, in Tamil and English.
+- It is part of AI Flywheel (https://aiflywheel.in), a brand of Inevitra Advisory. Built in Tamil Nadu, India.
+- Tagline: Make it. Question it. Share it.
+- Children learn to make things with AI and to question it. Every AI Flywheel lesson ends with one check done without AI.
+
+## Programmes (Classes 1–12)
+
+Children work through four stages, Know · Make · Do · Move: Foundation, Generative, Agentic and Physical AI. Every class learns all four, at the right level for its age. Every project runs DRIVE: Spot a problem, Gather what we need, Make it, Test it and check it is fair, Share it and make it better.
+
+| Programme | Classes | Time in the timetable | AI use rule | Price per student a year (Ed 1.1, excl. GST) |
+|---|---|---|---|---|
+| Flywheel Play | Classes 1–2 | About 20 sessions a year | Unplugged. No AI accounts. No marks. | ₹1,500–2,000 |
+| Flywheel Spark | Classes 3–5 | 1 period a week | Mostly unplugged. No student AI accounts. | ₹2,000–3,000 |
+| Flywheel Practitioner | Classes 6–8 | 1–2 periods a week | Teacher-owned Studio accounts. Students can earn Aware (C1). | ₹2,500–3,500 |
+| Flywheel Builders Club | Classes 9–12 | A club plus a capstone DRIVE turn | Teacher-owned accounts until 18. Practitioner (C2) to Builder (C3), school version. | ₹3,000–4,000 |
+
+Prices are quoted per school after a demo. GST is extra. Class bands and activities are a proposal, confirmed with each school.
+
+What children make (examples): Classes 1–2 a pattern book and a floor-robot path; Classes 3–5 a class data chart, a robot recipe flowchart and a block-coded robot; Classes 6–8 a class dataset and simple image classifier, an AI-assisted poster that is checked, cited and labelled, and a sensor project; Classes 9–12 a Tamil–English AI model test, a supervised helper agent and a capstone.
+
+## Board alignment (Proposed: our reading of each published syllabus, not an accreditation)
+
+- CBSE: based on Computational Thinking and AI for Classes 3–8, from 2026–27. We cover patterns and data, step-by-step instructions and flowcharts, and what AI is and where it goes wrong. We add robots and sensors, one check without AI in every project, and Tamil and English kits.
+- ICSE: based on CISCE Computer Studies (Classes 1–8) and Computer Applications (Classes 9–10).
+- Tamil Nadu State Board: based on State Board computer science and ICT, Classes 1–12, with Tamil-first lesson kits.
+
+## A school's path
+
+1. School Flywheel Check: a free 15-minute online check for leaders, six questions, instant report. https://schools.aiflywheel.in/check
+2. Demo: a 45-minute sample lesson with your own students, on site or online, no obligation. https://schools.aiflywheel.in/demo
+3. Pilot: one class band for one term, one period a week, with a teacher trained to Aware (C1), ending with a report and review. https://schools.aiflywheel.in/pilot
+4. School Flywheel Partnership (annual): lesson kits for every class band in Tamil and English; Teacher Flywheel with C1 free for every teacher and training to Practitioner (C2); a termly school report by class band, level and stage; Flywheel Day and the Inter-school Challenge; a parent pack and one parent session a year. https://schools.aiflywheel.in/partnership
+5. Spark Lab (optional). https://schools.aiflywheel.in/lab
+6. AI Flywheel School mark. https://schools.aiflywheel.in/mark
+
+School calendar: schools plan in October–December, set budgets in January–April and train teachers in April–May before the June term.
+
+## Spark Lab: AI and robotics lab (Ed 1.1 bands, excl. GST, one-time set-up, quoted after a visit)
+
+- Starter ₹1–2 lakh, Classes 1–5: floor robots and path mats, picture and pattern cards, one teacher device, printed lesson kits.
+- Standard ₹3–6 lakh, Classes 1–8: adds block-coded robots and sensors, shared student devices on teacher-owned accounts, an offline hub.
+- Advanced ₹8–25 lakh, Classes 1–12: adds robot arms and mobile robots, simulation-ready workstations, a capstone and showcase corner.
+- AI Flywheel Studio in the lab: Agentic Studio from February 2027; Model, Generative and Robotic Studio (school versions) in FY28. Until then, teachers demonstrate.
+- The name Spark Lab is still to be confirmed.
+
+## AI Flywheel School mark (criteria Proposed)
+
+- Aware: all teachers at Aware (C1); the programme running in at least one class band.
+- Practitioner: half the teachers at Practitioner (C2); every class band covered; a yearly Flywheel Day.
+- Builder: a Spark Lab; a quarter of teachers at Builder (C3); a Builders Club capstone showcase.
+- Renewed every year, shown on the school's website, verifiable at https://schools.aiflywheel.in/verify
+
+## Teacher Flywheel (teacher training and certification)
+
+- Aware (C1): self-paced, in Tamil or English; assessed by a scenario quiz taken without AI; free for every teacher in a partner school.
+- Practitioner (C2): uses AI in lesson planning, safely; a logged use plus the same task done unaided; included for partnership teachers.
+- Builder (C3): redesigns one unit, teaches it and reviews it with a mentor; for lead teachers and club leads.
+- Leader (C4) teachers with train-the-trainer can become Knowledge Partners through AI Flywheel.
+- Workshops: April–May training window (C1 and C2 cohorts); June–July kit walkthroughs; October mid-year clinic; January Builder reviews and showcase planning.
+- Credentials are issued as Open Badges 3.0 and can be verified on the site. This is AI Flywheel's own certification, not a CBSE or NCERT one.
+
+## Events for partner schools (dates set each June; Proposed)
+
+- Flywheel Day: once a year at the school; every class band, Classes 1–12, shows what it made; parents invited.
+- Inter-school Challenge: once a year; teams from Classes 6–12 solve one real problem in one day.
+- Annual Showcase: end of the school year; Builders Club capstones, first name and class only.
+
+## AI Flywheel Kids (Classes 3–8, ages 8–14; prices Proposed)
+
+Camps and clubs planned in Chennai, Coimbatore, Madurai and Tiruchirappalli, at partner schools and learning centres. Camp sessions shown on the site are an illustrative scenario until dates are confirmed. Join the waitlist: https://schools.aiflywheel.in/kids/find
+
+- Kids Summer Camp: 2 weeks in April–May, 2–3 hours a day; take home a finished project, a printed certificate and a family Showcase Day; ₹4,000–7,500.
+- Kids Weekend Club: a school term of Saturdays, 2 hours a week; a project each month; Classes 6–8 can earn Aware (C1); ₹6,000–9,000 a term.
+- Kids Holiday Bootcamp: 3–5 days in the Pongal, Diwali or Christmas break; one themed build; ₹2,500–4,000.
+- Kids at Home: printable, unplugged activity packs with a parent guide, in Tamil and English; free sampler, then ₹499–999 a pack.
+- Schools and learning centres can host camps on a revenue share: https://schools.aiflywheel.in/kids/host
+
+## Government schools (Mission) and CSR
+
+- Mission schools: a Tamil-first, offline-capable curriculum for government and aided schools, Classes 3–8 first, with free Aware (C1) teacher training.
+- Progress is reported by teacher level (C1–C3) and children's work by stage, not enrolment counts. District figures on the site are illustrative.
+- Companies can fund it as Mission Patrons through CSR, with cost per school published in each district plan and a termly district report.
+- Part of Mission 2047, AI Flywheel's purpose: by India's hundredth year of independence, count the people who can build with AI, by level and stage, in every district.
+
+## Safety and privacy promises
+
+1. No AI accounts for Classes 3–5. Teachers demonstrate; children make things offline.
+2. Teacher-owned accounts for older students, until they turn 18.
+3. Verified parental consent before any child's data is collected (the school invites, the parent verifies with a one-time code).
+4. Data stays in India and is never used to train AI models.
+5. No tracking, profiling, ads or third-party pixels on the site.
+6. Photos only with written consent; showcases show first name and class only.
+
+Parents can view, download or delete their child's data at any time. The school is the data fiduciary under the DPDP Act; AI Flywheel is the school's data processor (subject to legal review). Children's progress is never public. Website forms ask for adult details only.
+
+## Contact routes
+
+- Schools (correspondents, principals, coordinators): https://schools.aiflywheel.in/demo or https://schools.aiflywheel.in/contact
+- Parents and Kids camps: https://schools.aiflywheel.in/contact
+- Mission, government and district programmes: https://schools.aiflywheel.in/contact
+- CSR funding: https://schools.aiflywheel.in/mission/csr
+- Concerns about a child's data or an AI feature: the grievance officer, https://schools.aiflywheel.in/trust/grievance (proposed response times: incidents acknowledged within 24 hours, concerns within 2 working days)
+
+## What we do not claim
+
+No ratings, reviews, awards or customer logos are published. Board mappings are not accreditations. School stories are labelled Real, Pilot or Illustrative scenario.

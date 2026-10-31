@@ -1,0 +1,30 @@
+/* schools.aiflywheel.in — warm, safe, serious. Cream, navy, sky and sunshine. */
+:root {
+  --bg: #fff7e8; /* cream */
+  --surface: #ffffff;
+  --surface-2: #fdebc8;
+  --ink: #1e2a44; /* navy ink */
+  --ink-2: #2c3b5c;
+  --muted: #56617a;
+  --line: #f0e2c4;
+  --inverse: #1e2a44;
+  --inverse-ink: #fff7e8;
+
+  --primary: #2a74cc; /* sky (darkened for AA with white text) */
+  --primary-hover: #1f62b0;
+  --on-primary: #ffffff;
+  --accent: #f2b705; /* sunshine */
+  --on-accent: #1e2a44;
+  --highlight: #ffe39a;
+  --kids: #b8306f; /* kids magenta */
+
+  --font-display-family: var(--font-poppins), var(--font-noto-tamil);
+  --font-sans-family: var(--font-inter), var(--font-noto-tamil);
+  --font-mono-family: var(--font-jetbrains);
+  --display-tracking: -0.015em;
+  --radius-card-size: 22px;
+}
+
+body {
+  font-size: 1.0625rem;
+}

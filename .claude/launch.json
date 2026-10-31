@@ -1,0 +1,23 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "ai-flywheel",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev", "--prefix", "web/apps/flywheel"],
+      "port": 3000
+    },
+    {
+      "name": "ai-flywheel-schools",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev", "--prefix", "web/apps/schools"],
+      "port": 3001
+    },
+    {
+      "name": "ai-flywheel-studio",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev", "--prefix", "web/apps/studio"],
+      "port": 3002
+    }
+  ]
+}

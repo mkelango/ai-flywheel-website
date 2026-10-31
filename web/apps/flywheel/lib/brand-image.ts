@@ -1,0 +1,4 @@
+/** The WheelMark as a data URI, for next/og images (icon.svg holds the same drawing). */
+export const WHEEL_DATA_URI = `data:image/svg+xml,${encodeURIComponent(
+  `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><g fill="none" stroke-width="14" stroke-linecap="round" stroke-dasharray="55.83 195.5" transform="rotate(-90 50 50)"><circle cx="50" cy="50" r="40" stroke="#3B4BA8"/><circle cx="50" cy="50" r="40" stroke="#B8306F" stroke-dashoffset="-62.83"/><circle cx="50" cy="50" r="40" stroke="#D98B0B" stroke-dashoffset="-125.66"/><circle cx="50" cy="50" r="40" stroke="#13827F" stroke-dashoffset="-188.5"/></g><circle cx="50" cy="50" r="13" fill="#D9542A"/></svg>`,
+)}`;

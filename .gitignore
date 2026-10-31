@@ -1,0 +1,19 @@
+# Source documents and reports stay out of the repo (this GitHub repo is public)
+*.pdf
+
+# Dependencies and build output (web/.gitignore covers the apps too)
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+next-env.d.ts
+
+# Local environment files
+.env
+.env*.local
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

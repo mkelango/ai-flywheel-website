@@ -1,0 +1,95 @@
+# AI Flywheel Studio: full facts
+
+> Plain facts about AI Flywheel Studio (https://aiflywheel.studio) for search and answer engines. Updated October 2026. Where a fact is planned rather than live, it says so.
+
+## Entity
+
+- Name: AI Flywheel Studio ("Studio"). Website: https://aiflywheel.studio
+- What it is: the agentic AI platform and build software of AI Flywheel, the place where learning becomes building. Tagline: "Sign in. Start a project."
+- Organisation: AI Flywheel (https://aiflywheel.in), part of Inevitra Advisory.
+- Sister sites: aiflywheel.in (programmes, levels, credentials) and AI Flywheel at Schools, schools.aiflywheel.in (AI literacy for schools).
+- Status: not yet open. Agentic Studio opens in early access in the week of 8 February 2027.
+
+## The four studios
+
+One studio per stage of the wheel:
+
+- Model Studio (KNOW): know your data and models; rent, adapt or build, on evidence. Runs the Model Development Life Cycle (MDLC). Planned for FY28.
+- Generative Studio (MAKE): make with AI, safely; a rights ledger in, C2PA content credentials out. Runs the Generative Development Life Cycle (GDLC). Planned for FY28.
+- Agentic Studio (DO): build agents that act, with the system that watches them. Runs the Agentic Development Life Cycle (ADLC). Opens first, February 2027.
+- Robotic Studio (MOVE): put intelligence into machines, with a safety case behind it. Runs the Robotic Development Life Cycle (RDLC). Planned for FY28.
+
+## Dates
+
+- Now (October 2026): Studio home and the early-access list.
+- Week of 8 February 2027: Agentic Studio opens in early access at the Inevitable Summit.
+- After the Summit: first Agentic AI Engineer cohort builds in Agentic Studio.
+- FY28 (planned): Model, Generative and Robotic Studio, each opening with its own Campus Lab.
+
+## Agent development life cycle (ADLC)
+
+- The ADLC is ten phases and six signed gates. Every Agentic Studio project runs it.
+- Phases: Discover, Define, Design, Specify, Prototype, Build, Verify, Govern and release, Operate, Learn and evolve. Build runs in waves between G4 and G5.
+- Gates: G1 Thesis approved; G2 Architecture approved; G3 Definition of ready; G4 Experience sign-off; G5 Quality gate; G6 Governance and go-live (kill switch tested).
+- A gate is a signed decision with linked evidence, signed by a named human.
+- Model, Generative and Robotic Studio run twelve-phase life cycles (MDLC, GDLC, RDLC) with the same six gates.
+
+## What every Agentic Studio project leaves behind
+
+1. A gate log: six signed decisions with linked evidence.
+2. An eval suite: graded test cases that grow with every spec.
+3. A register row: one agent, one named human owner.
+4. A tested kill switch: proved to stop the agent before go-live.
+
+## Autonomy and the kill switch
+
+- Six autonomy levels: L0 Manual, L1 Assist, L2 Pair, L3 Delegate, L4 Supervise, L5 Autonomous. Each level needs its controls in place first.
+- Five kill-switch levels, narrowest first: Run, Agent, System, Tenant, Global. Anyone on the run can stop an agent; only a human can restore it.
+
+## Platform (published design, ahead of opening)
+
+- Model-agnostic: bring your own key; a Model Mesh routes by task with residency rules.
+- Tools through an MCP gateway, a connector registry and a token vault.
+- Eval Service with a Replay Bench and an Evidence Pack per release.
+- Policy limits live in a Policy Engine, never in the prompt; a hash-chained Trust Ledger records decisions.
+- One microVM per run, never reused across tenants. One trace per run.
+- Each tenant is pinned to a home region; for India that is AWS Mumbai (ap-south-1).
+- Sign-in through your identity provider via OIDC, with SCIM provisioning.
+- Built for India's Digital Personal Data Protection (DPDP) rules.
+
+## Who it is for
+
+- Cohort learners: one real use case over twelve weeks, in teams of four to six. G1 to G5 fall inside the cohort; G6 at a week-16 review.
+- Campus Labs: a Lab is a room on campus; a Studio is the software. Every Campus Lab runs one studio; the Agentic Lab runs Agentic Studio.
+- Enterprise teams: Studio seats for the people who build, sign and operate agents, on one governed gateway.
+- Schools: students under 18 use Studio only through accounts their school or teacher owns, with verifiable parental consent.
+
+## Levels and credentials
+
+- One login works across aiflywheel.in, AI Flywheel at Schools and Studio. Level, projects and portfolio travel with it.
+- Levels: C1 Aware, C2 Practitioner, C3 Builder, C4 Leader, C5 Architect. The framework is proposed and not yet externally validated.
+- Builder (C3) is earned with gate records and an oral defence.
+- Credentials are Open Badges 3.0 badges, recertified yearly. Check one at https://aiflywheel.studio/verify
+
+## Prices (rupees, excluding GST)
+
+- Studio pricing: not published yet. No Studio price is offered on this site.
+- Programmes that build in Studio, listed on aiflywheel.in. "Ed 1.1" bands are set; "Proposed" bands will be tested before launch.
+  - Agentic AI Engineer (C3, cohort): ₹35,000–60,000 (Ed 1.1). Next batch Feb 2027.
+  - Generative AI Engineer (C3, cohort): ₹35,000–60,000 (Ed 1.1). Next batch FY28 Q1.
+  - Model Engineer (C3, cohort): ₹35,000–60,000 (Ed 1.1). Next batch FY28.
+  - Physical AI and Robotics Engineer (C3, cohort): ₹35,000–60,000 plus lab fee (Proposed). Next batch FY28 H2.
+- All programme price bands: https://aiflywheel.in/pricing
+
+## Policies
+
+- Child safety: under-18 profiles are owned by a school or teacher, with verifiable parental consent. Student data is never used for marketing, and Studio sends no marketing to under-18s. At 18, with consent, the account moves to the learner and the portfolio is kept.
+- Honest claims: stories are labelled Real, Pilot or Illustrative scenario. No invented ratings, reviews or customer logos.
+- Privacy and data rights: https://aiflywheel.in/trust/privacy
+- Trust centre: https://aiflywheel.in/trust
+
+## Contact routes
+
+- Early access (one email when Agentic Studio opens): https://aiflywheel.studio/early-access
+- Questions, data requests and security reports: https://aiflywheel.in/contact
+- Schools: https://schools.aiflywheel.in

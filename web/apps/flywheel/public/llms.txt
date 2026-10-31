@@ -1,0 +1,78 @@
+# AI Flywheel
+
+> AI Flywheel is the practical AI learning platform that certifies what you can build. It is a brand of Inevitra Advisory, built on M. K. Elango's AI Flywheel framework and based in Tamil Nadu, India. Programmes run from a free C1 course to C5 Architect, in English and Tamil, with prices in rupees excluding GST. Every price carries a label: Ed 1.1 (set) or Proposed (to be confirmed before launch).
+
+Key facts: four AI stages (Foundation, Generative, Agentic, Physical); the DRIVE method (Diagnose, Resource, Implement, Validate, Expand); CORE governance (Compliance, Openness, Responsibility, Empowerment); five levels (C1 Aware, C2 Practitioner, C3 Builder, C4 Leader, C5 Architect). Every level is earned with an artefact from real work plus one proctored check taken without AI. Credentials are Open Badges 3.0 badges with a public verify page. Full facts: https://aiflywheel.in/llms-full.txt
+
+## Start here
+
+- [Home](https://aiflywheel.in/): AI courses and certification in India, from a free course to C5 Architect.
+- [Free AI course with certificate (C1)](https://aiflywheel.in/programmes/foundation): free, self-paced, about 6 hours, English and Tamil; optional proctored quiz ₹499 (Proposed).
+- [Free AI skills test](https://aiflywheel.in/check): eight questions, about five minutes; suggests a level per stage. Nothing is sent.
+- [All programmes](https://aiflywheel.in/programmes): every programme by level, stage, format and price.
+- [AI course fees](https://aiflywheel.in/pricing): every price band in rupees, excl. GST, with its label.
+- [Batch dates](https://aiflywheel.in/batches): first batch for each programme, by month.
+
+## Programmes
+
+- [Generative AI Practitioner (C2)](https://aiflywheel.in/programmes/generative-ai-practitioner): generative AI course for professionals; self-paced, 15–20 h; ₹4,999–7,999 (Proposed).
+- [Working with AI Agents (C2)](https://aiflywheel.in/programmes/working-with-ai-agents): delegate to an agent, read its trace, escalate; about 15 h; ₹4,999–7,999 (Proposed).
+- [CORE for Every Team (C2)](https://aiflywheel.in/programmes/core-for-every-team): responsible AI course for employees; about 8 h; ₹2,999 (Proposed).
+- [AI for Managers (C2)](https://aiflywheel.in/programmes/ai-for-managers): 4-week cohort-lite, 3 h a week; ₹9,999–14,999 (Proposed).
+- [Agentic AI Engineer (C3)](https://aiflywheel.in/programmes/agentic-ai-engineer): agentic AI course in India; 12-week team cohort, one production agent through the ADLC; ₹35,000–60,000 (Ed 1.1); first batch February 2027.
+- [Generative AI Engineer (C3)](https://aiflywheel.in/programmes/generative-ai-engineer): one generative pipeline through the GDLC with a rights ledger; ₹35,000–60,000 (Ed 1.1).
+- [Model Engineer (C3)](https://aiflywheel.in/programmes/model-engineer): one model through the MDLC, with Indian-language evaluation; ₹35,000–60,000 (Ed 1.1).
+- [Physical AI and Robotics Engineer (C3)](https://aiflywheel.in/programmes/physical-ai-robotics-engineer): one robot cell from simulation to bench test; ₹35,000–60,000 plus lab fee (Proposed).
+- [DRIVE Implementer (C4)](https://aiflywheel.in/programmes/drive-implementer): AI implementation certification; 8-week executive cohort; ₹60,000–90,000 (Proposed).
+- [CORE Governance Lead (C4)](https://aiflywheel.in/programmes/core-governance-lead): AI governance certification in India, DPDP-aware; ₹60,000–90,000 (Proposed).
+- [AI Flywheel Strategist (C5)](https://aiflywheel.in/programmes/ai-flywheel-strategist): AI strategy certification with panel review; ₹1.5–2.5 lakh (Proposed).
+- [Leadership programme](https://aiflywheel.in/programmes/leadership-programme): two days plus a 90-day follow-up; quoted per organisation (Proposed).
+- [Workforce licence](https://aiflywheel.in/programmes/workforce-licence): AI training for employees; ₹3,000–12,000 per seat a year (Ed 1.1).
+
+## Learning paths and levels
+
+- [Agentic AI learning path](https://aiflywheel.in/programmes/agentic): C1 to C3 in agentic AI.
+- [Generative AI learning path](https://aiflywheel.in/programmes/generative): C1 to C3 in generative AI.
+- [Foundation AI: data and ML](https://aiflywheel.in/programmes/foundation-ai): the floor every stage stands on.
+- [Physical AI learning path](https://aiflywheel.in/programmes/physical): robotics, simulation first.
+- [CORE governance courses](https://aiflywheel.in/programmes/core) and [DRIVE method courses](https://aiflywheel.in/programmes/drive).
+- [Levels C1 to C5](https://aiflywheel.in/programmes/level/c1): what each level proves and which programmes award it.
+- [Career tracks](https://aiflywheel.in/tracks/developers): developers, data and ML, product, marketing, risk, manufacturing and students.
+- [How a cohort works](https://aiflywheel.in/cohorts): 12 weeks, teams of four to six, about 8 hours a week.
+- [Certifications](https://aiflywheel.in/certifications) and [exams](https://aiflywheel.in/certifications/exams): evidence for each level, yearly recertification.
+- [Verify a credential](https://aiflywheel.in/verify): public Open Badges 3.0 verify page.
+
+## Organisations
+
+- [Business](https://aiflywheel.in/business): AI upskilling programme for companies: scan, lead, license, start, build.
+- [Enterprises and GCCs](https://aiflywheel.in/business/enterprise): enterprise AI training on one real use case.
+- [Startups and MSMEs](https://aiflywheel.in/business/startups): Founder's Check, a 60-minute review plus a 90-day plan.
+- [Organisation Flywheel Check](https://aiflywheel.in/business/check): AI readiness assessment by stage, level and lowest CORE pillar.
+- [Industries](https://aiflywheel.in/business/industries): a first AI use case for each of nine sectors.
+- [Government](https://aiflywheel.in/government): civil service programme, Chief AI Officer programme, use-case clinic, Economy Program, GeM and MoU routes.
+- [Higher education](https://aiflywheel.in/higher-education): credit courses, faculty development, four Campus Labs and challenges under one annual MoU.
+
+## Framework and reference
+
+- [The AI Flywheel framework](https://aiflywheel.in/framework): four stages, DRIVE, CORE and five levels.
+- [Four stages of AI](https://aiflywheel.in/framework/stages), [DRIVE](https://aiflywheel.in/framework/drive), [CORE](https://aiflywheel.in/framework/core), [Levels](https://aiflywheel.in/framework/levels), [Toolkit](https://aiflywheel.in/framework/toolkit).
+- [AI glossary](https://aiflywheel.in/glossary): plain-English terms, each sourced to a book chapter.
+- [What is agentic AI?](https://aiflywheel.in/glossary/agentic-ai): definition.
+- [Books](https://aiflywheel.in/books): six books by M. K. Elango; together they are the curriculum.
+- [Insights](https://aiflywheel.in/insights): short articles, each tied to a book chapter.
+- [Free resources](https://aiflywheel.in/free): templates, checklists, a 30-day literacy path and a sample gate log.
+
+## Company and policies
+
+- [About](https://aiflywheel.in/about): Inevitra Advisory and M. K. Elango.
+- [Case studies](https://aiflywheel.in/case-studies): every story is labelled Real, Pilot or Illustrative scenario; at launch, all are illustrative.
+- [Privacy and the DPDP Act](https://aiflywheel.in/trust/privacy), [Data sovereignty](https://aiflywheel.in/trust/sovereignty), [Responsible AI](https://aiflywheel.in/trust/responsible-ai), [Security](https://aiflywheel.in/trust/security).
+- [Contact](https://aiflywheel.in/contact): talk to an adviser.
+
+## Optional
+
+- [Inevitable Summit](https://aiflywheel.in/summit): week of 8 February 2027.
+- [Mission 2047](https://aiflywheel.in/mission-2047): count AI builders by level and stage, in every district.
+- [Tamil site](https://aiflywheel.in/ta): AI courses in Tamil.
+- [AI Flywheel at Schools](https://schools.aiflywheel.in/): the separate site for school delivery.
+- [AI Flywheel Studio](https://aiflywheel.studio/): where learners build; Agentic Studio opens first.

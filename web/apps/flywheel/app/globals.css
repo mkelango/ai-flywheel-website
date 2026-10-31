@@ -1,0 +1,22 @@
+@import "tailwindcss";
+@import "@flywheel/ui/styles/base.css";
+@import "@flywheel/ui/styles/theme-flywheel.css";
+@source "../../../packages/ui/src";
+
+/* aiflywheel.in hero drift: a little quicker and gentler than the shared default (scale 1 to 1.06, 14s, alternate).
+   base.css still stops it under prefers-reduced-motion (!important wins over this). */
+@layer utilities {
+  .ken-burns {
+    animation-name: fw-ken-burns;
+    animation-duration: 14s;
+  }
+}
+
+@keyframes fw-ken-burns {
+  from {
+    transform: scale(1);
+  }
+  to {
+    transform: scale(1.06);
+  }
+}

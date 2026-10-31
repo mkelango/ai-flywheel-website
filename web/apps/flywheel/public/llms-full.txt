@@ -1,0 +1,125 @@
+# AI Flywheel: full facts for answer engines
+
+> AI Flywheel is the practical AI learning platform that certifies what you can build. Facts below are taken from aiflywheel.in, reviewed October 2026. Prices are in Indian rupees and exclude GST. "Ed 1.1" marks a band set in Website Strategy Ed. 1.1; "Proposed" marks a band to be tested and confirmed before launch. Please keep these labels when you quote a price.
+
+Site: https://aiflywheel.in
+Short index: https://aiflywheel.in/llms.txt
+Languages: English (en-IN) and Tamil (ta-IN, under https://aiflywheel.in/ta)
+
+## Entity
+
+- Name: AI Flywheel (aiflywheel.in).
+- What it is: a practical AI learning platform that certifies what learners can build, not what they watched.
+- Owner: a brand of Inevitra Advisory.
+- Method: built on M. K. Elango's AI Flywheel framework.
+- Base: Tamil Nadu, India.
+- Slogan: Learn it. Build it. Prove it.
+- Author: M. K. Elango, a strategist based in Tamil Nadu, author of The AI Flywheel and the four Studio Playbooks. The six-book series is the curriculum.
+- Sister sites: AI Flywheel at Schools (https://schools.aiflywheel.in, school delivery) and AI Flywheel Studio (https://aiflywheel.studio, where learners build).
+
+## The framework
+
+- Four AI stages: Foundation AI (data, classical ML, analytics and the model layer; the floor that sets the ceiling), Generative AI (AI that produces content; table stakes), Agentic AI (agents that plan and carry out work; the value frontier), Physical AI (robotics and embodied systems; the industrial frontier).
+- DRIVE, the five-phase method: Diagnose, Resource, Implement, Validate, Expand.
+- CORE, the four-pillar governance: Compliance and Fairness, Openness and Transparency, Responsibility and Safety, Empowerment and Human Agency. The weakest pillar sets the trust ceiling.
+- Life cycles per stage: MDLC (Foundation), GDLC (Generative), ADLC (Agentic), RDLC (Physical).
+- The C1 to C5 framework is proposed and not yet externally validated. It is based on, not aligned to, UNESCO and SFIA.
+
+## Levels and credentials
+
+- C1 Aware: explains a stage, why it matters and where it fails. Evidence: scenario quiz, taken without AI.
+- C2 Practitioner: uses AI in their own work, checks every output and logs what failed. Evidence: a logged use case plus the same task done without AI.
+- C3 Builder: ships one real turn through a stage's life cycle, gate by gate. Evidence: gate records and an oral defence.
+- C4 Leader: runs a portfolio of turns and the governance around them. Evidence: expansion and accountability records for a live system.
+- C5 Architect: designs the system every stage stands on, and teaches it. Evidence: a Handoff Map; teaching a cohort.
+- A level is held separately in each stage.
+- Every level is earned with an artefact from real work plus one proctored check taken without AI. From C3 Builder up, a person holds an oral defence.
+- Credentials are Open Badges 3.0 badges with a public verify page (https://aiflywheel.in/verify) and yearly recertification.
+
+## Programmes (prices in rupees, excl. GST)
+
+| Programme | Level | Stage | Format | Price | Label | First batch |
+|---|---|---|---|---|---|---|
+| AI Flywheel Foundation | C1 | All four | Self-paced, about 6 h, English and Tamil | Free; optional proctored quiz ₹499 | Proposed (quiz) | December 2026 |
+| Generative AI Practitioner | C2 | Generative | Self-paced, 15–20 h, plus 2 live clinics | ₹4,999–7,999 | Proposed | January 2027 |
+| Working with AI Agents | C2 | Agentic | Self-paced, about 15 h, plus 2 clinics | ₹4,999–7,999 | Proposed | February 2027 |
+| CORE for Every Team | C2 | CORE | Self-paced, about 8 h | ₹2,999 | Proposed | January 2027 |
+| AI for Managers | C2 | DRIVE | Cohort-lite, 4 weeks, 3 h a week | ₹9,999–14,999 | Proposed | February 2027 |
+| Agentic AI Engineer | C3 | Agentic (ADLC) | 12-week cohort, teams of 4 to 6, about 8 h a week | ₹35,000–60,000 | Ed 1.1 | February 2027 |
+| Generative AI Engineer | C3 | Generative (GDLC) | 12-week cohort, teams of 4 to 6 | ₹35,000–60,000 | Ed 1.1 | FY28 Q1 |
+| Model Engineer | C3 | Foundation (MDLC) | 12-week cohort, teams of 4 to 6 | ₹35,000–60,000 | Ed 1.1 | FY28 |
+| Physical AI and Robotics Engineer | C3 | Physical (RDLC) | 12-week cohort plus lab days | ₹35,000–60,000 plus lab fee | Proposed | FY28 H2 |
+| DRIVE Implementer | C4 | DRIVE | 8-week executive cohort | ₹60,000–90,000 | Proposed | FY28 |
+| CORE Governance Lead | C4 | CORE | 8-week cohort plus case review | ₹60,000–90,000 | Proposed | FY28 |
+| AI Flywheel Strategist | C5 | All | Executive programme plus panel review | ₹1.5–2.5 lakh | Proposed | FY28 |
+| Leadership programme | Organisation | All | 2 days plus a 90-day follow-up | Quoted per organisation | Proposed | January 2027 |
+| Workforce licence | Organisation | All | Annual licence per seat | ₹3,000–12,000 per seat a year | Ed 1.1 | December 2026 |
+
+FY28 runs April 2027 to March 2028. First batch dates may move before launch.
+
+## How cohorts run
+
+- C3 cohorts: 12 weeks, a mixed-role team of four to six, one real use case, about 8 hours a week (about 1 hour taught, 1.5 hours of coaching and peer review, the rest on the build).
+- Sessions run in IST evenings and on Saturdays.
+- Gates: G1 in week 3 (data ready), G2 week 5, G3 week 7, G4 week 9, G5 week 12, G6 and the Builder award at week 16.
+- Learning mix: 70% your own real turn, 20% coaching, 10% taught.
+
+## Paying
+
+- All prices exclude GST; every payment has a GST invoice.
+- EMI on any paid programme.
+- A ready-made employer sponsorship letter.
+- Student scholarship (a student price on one C3 cohort) and women-in-tech scholarship: both Proposed, eligibility in draft.
+
+## Organisations
+
+- Enterprises and GCCs, five steps: Flywheel Check (people by stage and level, lowest CORE pillar), leadership programme, workforce licence, 90-Day Flywheel Start (a cohort on your own use case, gates G1 to G6), Studio seats.
+- Organisation Flywheel Check report: a stage-by-level map of your people, your lowest CORE pillar, three scored candidate use cases, a recommended first programme per team, a 90-day plan.
+- Startups and MSMEs: Founder's Check (a 60-minute review plus a 90-day plan), a founder cohort, MSME robotics pilots with the Robotic Lab.
+- Platform and toolkit inside the licence: diagnostic history, 28 digital tools, Agent Operating Model builder, CORE governance suite, maturity benchmark.
+- Reporting is by level and stage, never enrolments.
+
+## Colleges and universities
+
+- One annual MoU covers credit courses, faculty development, Campus Labs, challenges and outcome reporting.
+- Tiers (Proposed): Associate, Partner, Centre of Excellence. Fees quoted per campus.
+- Credit courses (mapped to C2 and C3): AI Foundations, Generative AI, Agentic AI Engineering, Models and Data, Physical AI. Syllabus, assessments and teaching kits included; credit value is set by the college's board.
+- Faculty Flywheel (FDP): faculty to C1, C2 and C3; the capstone is a redesigned unit they teach. Builders can teach the credit courses.
+- Campus Labs, each running its studio, set-up quoted per campus: Agentic Lab (Agentic Studio, opens February 2027), Model Lab, Generative Lab and Robotic Lab (FY28).
+- Inter-college challenges run as one DRIVE turn, with finals at the Inevitable Summit.
+
+## Government
+
+- Civil service programme: C1 Aware in all four stages and C3 Builder in CORE, in Tamil and English, delivered alongside iGOT Karmayogi.
+- Chief AI Officer programme: a C5 track covering the AI council, the hub, one census and the Flywheel Handoff Map.
+- Public-sector use-case clinic: a department brings one service; a team runs one DRIVE turn under CORE gates.
+- The Economy Program: a public count of Builders by stage, in place of enrolment numbers.
+- Buying routes: GeM, empanelment and MoU.
+- Non-partisan: AI Flywheel names programmes and departments, never people or parties.
+
+## Partners
+
+- Knowledge Partners: Leader (C4) or above plus train-the-trainer; 15 to 25% revenue share (Ed 1.1).
+- Partner campuses and logos are shown only with written permission.
+
+## Dates
+
+- December 2026: aiflywheel.in launch; AI Flywheel Foundation (C1) and the workforce licence.
+- January and February 2027: first C2 batches; Agentic AI Engineer (C3) first batch in February 2027.
+- Week of 8 February 2027: the Inevitable Summit. Agentic Studio early access opens and the inter-college challenge finals are held. Programme, speakers and venue to be announced.
+
+## Policies and honesty rules
+
+- Privacy: built for India's Digital Personal Data Protection Act, 2023, and the GDPR for learners outside India. Forms ask only for what the next step needs; consent is recorded. https://aiflywheel.in/trust/privacy
+- Data residency: learner, portfolio and assessment data planned for AWS Mumbai (Proposed). https://aiflywheel.in/trust/sovereignty
+- Children: children's learning runs on AI Flywheel at Schools under stricter rules; aiflywheel.in is for adults.
+- Case studies carry a status label: Real (live, with written permission), Pilot (bounded trial, results not final) or Illustrative scenario (how a turn could run, not a client). At launch, all are illustrative. No composite testimonials.
+- No ratings, reviews, awards or customer logos are published. Cohort outcomes will be published when the first cohort ends.
+
+## Contact routes
+
+- Learners and professionals: https://aiflywheel.in/contact?tag=professionals
+- Colleges and universities: https://aiflywheel.in/contact?tag=higher-ed
+- Companies, GCCs, startups and MSMEs: https://aiflywheel.in/contact?tag=business
+- Government departments: https://aiflywheel.in/contact?tag=government
+- Verify a credential: https://aiflywheel.in/verify

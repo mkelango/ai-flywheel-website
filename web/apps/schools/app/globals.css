@@ -1,0 +1,102 @@
+@import "tailwindcss";
+@import "@flywheel/ui/styles/base.css";
+@import "@flywheel/ui/styles/theme-schools.css";
+@source "../../../packages/ui/src";
+
+/* Gentle, looping doodle motion. base.css stops it under prefers-reduced-motion. */
+@keyframes float-a {
+  0%, 100% { translate: 0 0; }
+  50% { translate: 0 -8px; }
+}
+@keyframes float-b {
+  0%, 100% { translate: 0 0; }
+  50% { translate: 0 7px; }
+}
+@keyframes spin-slow {
+  to { rotate: 360deg; }
+}
+@keyframes pulse-soft {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.82; }
+}
+@keyframes robot-roll {
+  0%, 100% { translate: -14px 6px; }
+  50% { translate: 14px -6px; }
+}
+@keyframes arm-wave {
+  0%, 100% { rotate: 0deg; }
+  50% { rotate: -6deg; }
+}
+
+@layer utilities {
+  .float-a { animation: float-a 6s ease-in-out infinite; }
+  .float-b { animation: float-b 7s ease-in-out infinite; }
+  .spin-slow { animation: spin-slow 14s linear infinite; transform-box: fill-box; transform-origin: center; }
+  .pulse-soft { animation: pulse-soft 4s ease-in-out infinite; }
+  .robot-roll { animation: robot-roll 5s ease-in-out infinite; }
+  .arm-wave { animation: arm-wave 4s ease-in-out infinite; transform-box: view-box; }
+
+  /* AI Flywheel Kids: brighter, rounder personality. */
+  .kids-sky {
+    background:
+      radial-gradient(60% 60% at 85% 10%, color-mix(in oklab, var(--accent) 45%, transparent), transparent 70%),
+      radial-gradient(50% 60% at 0% 100%, color-mix(in oklab, var(--kids) 28%, transparent), transparent 70%),
+      linear-gradient(160deg, #fff1f7 0%, var(--bg) 55%, #fff3cf 100%);
+  }
+  .kids-band {
+    background:
+      radial-gradient(38% 70% at 100% 100%, color-mix(in oklab, var(--accent) 80%, transparent), transparent 70%),
+      linear-gradient(120deg, var(--kids) 0%, #9e2560 100%);
+  }
+}
+
+/* Photography: slow hero drift (1 → 1.06 over 14s), layered frames and hover zoom on image cards.
+   base.css stops .ken-burns and all transitions under prefers-reduced-motion. */
+@keyframes photo-drift {
+  from { transform: scale(1); }
+  to { transform: scale(1.06); }
+}
+
+@layer utilities {
+  .ken-burns {
+    animation: photo-drift 14s ease-in-out infinite alternate;
+    transform-origin: 55% 45%;
+  }
+  .photo-shadow {
+    box-shadow: 0 30px 60px -30px rgb(30 42 68 / 0.45), 0 0 0 1px color-mix(in oklab, var(--ink) 6%, transparent);
+  }
+  .photo-halo {
+    background: linear-gradient(135deg, color-mix(in oklab, var(--primary) 22%, transparent), color-mix(in oklab, var(--accent) 30%, transparent));
+  }
+  .float-card {
+    box-shadow: 0 24px 48px -20px rgb(30 42 68 / 0.35);
+  }
+  .thumb-zoom img {
+    transition: transform 0.6s var(--ease-out-soft);
+  }
+  .group:hover .thumb-zoom img,
+  .group:focus-visible .thumb-zoom img {
+    transform: scale(1.04);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .group:hover .thumb-zoom img,
+  .group:focus-visible .thumb-zoom img {
+    transform: none;
+  }
+}
+
+/*
+  The shared header shows the full nav from 1280px; tighten items up to 1365px so six menus,
+  logo and CTA fit on one line. The "at Schools" descriptor stays visible at every width.
+*/
+header nav[aria-label="Main"] :is(a, button) {
+  white-space: nowrap;
+}
+@media (min-width: 1280px) and (max-width: 1365px) {
+  header nav[aria-label="Main"] :is(a, button) {
+    padding-inline: 0.5rem;
+    font-size: 0.86rem;
+  }
+}

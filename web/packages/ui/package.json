@@ -1,0 +1,21 @@
+{
+  "name": "@flywheel/ui",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./components/*": "./src/components/*.tsx",
+    "./styles/*": "./src/styles/*",
+    "./sites": "./src/sites.ts"
+  },
+  "peerDependencies": {
+    "next": "*",
+    "react": "*",
+    "react-dom": "*"
+  },
+  "dependencies": {
+    "clsx": "^2.1.1",
+    "lucide-react": "^1.65.0",
+    "motion": "^14.8.0"
+  }
+}

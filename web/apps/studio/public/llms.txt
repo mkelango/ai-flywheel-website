@@ -1,0 +1,38 @@
+# AI Flywheel Studio
+
+> AI Flywheel Studio (aiflywheel.studio) is the agentic AI platform of AI Flywheel: the build software where learning becomes building. Four studios, one per stage of the wheel. Agentic Studio opens first, in early access at the Inevitable Summit, week of 8 February 2027; Model, Generative and Robotic Studio are planned for FY28. Every project runs a life cycle with six signed gates, G1 to G6.
+
+Studio pricing is not published yet. Dates marked FY28 are planned, not committed. Updated October 2026.
+
+## Studios
+
+- [Agentic Studio](https://aiflywheel.studio/agentic): The AI agent builder. One bounded agent with evals, a gate log, a register row and a tested kill switch. Opens Feb 2027.
+- [Model Studio](https://aiflywheel.studio/model): The model development life cycle (MDLC): rent, adapt or build a model, on evidence. Coming FY28.
+- [Generative Studio](https://aiflywheel.studio/generative): The generative AI development life cycle (GDLC): a rights ledger in, C2PA content credentials out. Coming FY28.
+- [Robotic Studio](https://aiflywheel.studio/robotic): The robotic development life cycle (RDLC): digital twin, bench integration and a safety case. Coming FY28.
+
+## How it works
+
+- [Agent development life cycle (ADLC)](https://aiflywheel.studio/how-it-works): Ten phases, six signed gates (G1 to G6) and four records per agent.
+- [Platform architecture](https://aiflywheel.studio/architecture): Nine layers, four planes, a microVM per run, an eval service and a hash-chained ledger.
+- [Governance and security](https://aiflywheel.studio/security): Five-level kill switch, SSO via OIDC, audit log, DPDP readiness, India data residency on AWS Mumbai (ap-south-1).
+
+## Who it is for
+
+- [Cohort learners](https://aiflywheel.studio/for-learners): Build one AI agent in a twelve-week team cohort and keep Builder (C3) evidence.
+- [Campus Labs](https://aiflywheel.studio/for-campuses): A Lab is the room; the Studio is the software. The Agentic Lab runs Agentic Studio.
+- [Enterprise teams](https://aiflywheel.studio/for-teams): Studio seats on one governed gateway: one identity, one policy, one trace.
+- [Schools](https://aiflywheel.studio/for-schools): Under-18s use teacher-run accounts with verifiable parental consent. No marketing.
+
+## Plans and answers
+
+- [Roadmap](https://aiflywheel.studio/roadmap): Agentic Studio Feb 2027; Model, Generative and Robotic Studio FY28.
+- [Early access](https://aiflywheel.studio/early-access): Join the list for one email when Agentic Studio opens.
+- [FAQ](https://aiflywheel.studio/faq): Opening dates, access, data storage, schools and stopping an agent.
+- [Verify a credential](https://aiflywheel.studio/verify): Check an Open Badges 3.0 credential earned by shipping in Studio.
+
+## Optional
+
+- [Full facts for language models](https://aiflywheel.studio/llms-full.txt): Entity facts, levels, programme price bands, dates and policies.
+- [AI Flywheel](https://aiflywheel.in): Programmes, levels C1 to C5, price bands and the trust centre.
+- [AI Flywheel at Schools](https://schools.aiflywheel.in): AI literacy for Classes 1 to 12.
